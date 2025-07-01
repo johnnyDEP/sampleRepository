@@ -1,0 +1,4 @@
+# Sample requirements.txt for doppleGanker testing
+requests==2.31.0
+flask>=2.0.0
+numpy 
