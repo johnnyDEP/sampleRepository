@@ -46,7 +46,7 @@
     "http-server": "^14.1.0",
     "husky": "^7.0.4",
     "lerna": "^8.1.2",
-    "lint-staged": "^12.4.2",
+    "lint-staged-custom": "^12.4.2",
     "postcss": "^8.2.1",
     "prettier": "^1.7.4",
     "rimraf": "^2.6.2",
